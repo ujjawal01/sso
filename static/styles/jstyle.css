@@ -1,0 +1,20 @@
+.bg-primary {
+        background-color:#2E0266!important;
+    }
+ 
+.btn-lg {
+        padding: 20px 20px;
+        font-size: 10px;
+        border-radius: 10px;
+        height: 40%;
+        width: 40%; 
+        background-color: #D1CADA;  
+    }
+
+.card {
+
+    height: 10rem;
+    width: 10rem;
+
+
+}
